@@ -1,8 +1,9 @@
 # Bio
 <h1 align="center">Hi 👋, I'm Md. Roton Ahmed</h1>
-<h3 align="center">Learning Fast API, AI & ML, Flask, Data Science, Computer Vision</h3>
+<h3 align="center">Fast API, AI & ML, Flask, Data Science, Computer Vision</h3>
+<h3 align="center">Full Stack Data Science, AI & ML Engineer</h3>
 
-- 🌱 I’m currently learning **Tensorflow**
+- 🌱 I’m currently learning **Tensorflow**, **Deep Learning**
 
 - 📫 How to reach me **rkroton43@gmail.com**
 
