@@ -46,7 +46,7 @@ Building intelligent systems using <b>Machine Learning</b>, <b>Deep Learning</b>
 </a>
 
 <a href="https://www.researchgate.net/profile/Md-Ahmed-233" target="_blank">
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_Logo.svg" height="30" width="30" alt="ResearchGate" />
+<img align="center" src="https://imgs.search.brave.com/73X7f1MljfuNmAe2U7rpQTnqWyFtFiDZpNqcdAAjPrk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/aWNvbnM4LmNvbS9l/eHRlcm5hbC10YWwt/cmV2aXZvLWNvbG9y/LXRhbC1yZXZpdm8v/MTIwMC9leHRlcm5h/bC1yZXNlYXJjaGdh/dGUtYS1zb2NpYWwt/bmV0d29ya2luZy1z/aXRlLWZvci1zY2ll/bnRpc3RzLWFuZC1y/ZXNlYXJjaGVycy10/by1zaGFyZS1wYXBl/cnMtbG9nby1jb2xv/ci10YWwtcmV2aXZv/LmpwZw" height="30" width="30" alt="ResearchGate" />
 </a>
 
 <a href="https://orcid.org/0009-0003-6466-7402" target="_blank">
