@@ -78,8 +78,6 @@ Email: **[rkroton43@gmail.com](mailto:rkroton43@gmail.com)**
   * Computer Vision
   * Predictive Modeling
   * Data Analysis & Optimization
-* Papers: *(Add your Google Scholar / ResearchGate links here once updated)*
-
 ---
 
 ## Tech Stack
