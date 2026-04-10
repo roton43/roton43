@@ -45,12 +45,12 @@ Building intelligent systems using <b>Machine Learning</b>, <b>Deep Learning</b>
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" height="30" width="30" />
 </a>
 
-<a href="https://www.researchgate.net/profile/Md-Ahmed-233?ev=hdr_xprf" target="_blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111625.png" height="30" width="30" />
+<a href="https://www.researchgate.net/profile/Md-Ahmed-233" target="_blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/ResearchGate_icon_Logo.svg" height="30" width="30" alt="ResearchGate" />
 </a>
 
 <a href="https://orcid.org/0009-0003-6466-7402" target="_blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" height="30" width="30" />
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="30" width="30" alt="ORCID" />
 </a>
 </p>
 
