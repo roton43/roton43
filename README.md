@@ -1,4 +1,4 @@
-#Hi, I'm Md. Roton Ahmed
+## Hi, I'm Md. Roton Ahmed
 
 <h3 align="center">Fullstack Data Science AI & ML Engineer | Researcher</h3>
 
@@ -8,7 +8,7 @@ Building intelligent systems using <b>Machine Learning</b>, <b>Deep Learning</b>
 
 ---
 
-##About Me
+## About Me
 
 * Passionate about **AI, Machine Learning & Data Science**
 * Working on **Computer Vision, Pattern Recognition, NLP & Real-world ML systems**
@@ -18,20 +18,20 @@ Building intelligent systems using <b>Machine Learning</b>, <b>Deep Learning</b>
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
-### 🌐 Professional & Social
+### Professional & Social
 
 <p align="left">
 <a href="https://linkedin.com/in/md-roton-ahmed-6bb396216" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 
-<a href="https://kaggle.com/rotonahmed" target="_blank">
+<a href="https://www.kaggle.com/roton34" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
 </a>
 
-<a href="https://fb.com/md.roton.ahmed" target="_blank">
+<a href="https://www.facebook.com/km.roton.ahmed" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
 </a>
 </p>
@@ -41,15 +41,15 @@ Building intelligent systems using <b>Machine Learning</b>, <b>Deep Learning</b>
 ### Research Profiles
 
 <p align="left">
-<a href="https://scholar.google.com/" target="_blank">
+<a href="‪MD Roton Ahmed‬ - ‪Google Scholar‬ https://share.google/6Wn9QAiffPdZhqIH7" target="_blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" height="30" width="30" />
 </a>
 
-<a href="https://www.researchgate.net/" target="_blank">
+<a href="https://www.researchgate.net/profile/Md-Ahmed-233?ev=hdr_xprf" target="_blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111625.png" height="30" width="30" />
 </a>
 
-<a href="https://orchid.org/" target="_blank">
+<a href="https://orcid.org/0009-0003-6466-7402" target="_blank">
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" height="30" width="30" />
 </a>
 </p>
@@ -94,7 +94,7 @@ FastAPI • Flask • HTML • CSS • Tailwind
 
 ### AI / ML / Data Science
 
-TensorFlow • Scikit-learn • Pandas • NumPy • OpenCV • Seaborn • MATLAB
+TensorFlow • Scikit-learn • Pandas • NumPy • OpenCV • Seaborn • MATLAB • Gradio • Streamlit
 
 ### Databases
 
@@ -102,7 +102,7 @@ MySQL • PostgreSQL • SQLite
 
 ### Tools
 
-Git • Figma • Arduino • Qt • Gradio • Streamlit • Cisco Packet Tracer
+Git • Figma • Arduino • Qt • Cisco Packet Tracer
 
 ---
 
@@ -115,13 +115,6 @@ Git • Figma • Arduino • Qt • Gradio • Streamlit • Cisco Packet Trace
   * Problem Solving
   * Logical Thinking
 
----
-
-## Goals
-
-* Become a **top AI Engineer & Researcher**
-* Build impactful **real-world AI systems**
-* Master **Deep Learning & System Design**
 
 ---
 
